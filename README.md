@@ -1,4 +1,4 @@
-# Grok3 API
+# Grok3 API 
 
 Grok3 is cool, smart, and useful, but there is no official API available. This is an **unofficial Python client** for interacting with the Grok 3 API. It leverages cookies from browser requests to authenticate and access the API endpoints.
 
